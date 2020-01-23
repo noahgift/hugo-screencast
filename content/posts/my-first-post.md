@@ -5,4 +5,5 @@ draft: false
 ---
 
 This should auto-deploy.
-This is one more step
+This is one more step.
+Test --force
